@@ -22,11 +22,12 @@ considering how the average value of the consumer evolves over time for instance
 -	Consumer LTV
 -	AOV-average order value = sum (total order value/ count (order id)
 
-image
+![image](https://user-images.githubusercontent.com/85560182/161405182-846a0c3a-6214-4628-aede-cb01d4df6c8a.png)
+
 
 Sales by country – targeting the country where the sales is the lowest or the highest
 
-image 
+![image](https://user-images.githubusercontent.com/85560182/161405178-640992f3-b97e-40c0-8739-099f28c84725.png)
 
 Insights:
 And we can compare this metrics on the year to year basis whether there is growth or decline in the KPIs. As we can see in our analysis there is a 1% increase in the %GP in 2020 compares to 2019.  
@@ -39,6 +40,9 @@ KYC - to Know Your Costumers is vital across industries - Knowing how the base o
 
 The main consumer KPIs are:
 - customer LTV - Total order value – cost of goods sold
+![image](https://user-images.githubusercontent.com/85560182/161405240-44764219-49ec-4b2f-90a8-916440882226.png)
+
+
 So we divide costumers according to their LTV into tears or percentiles so we have:
 	- Tear 3 –(0 – 0.33)
 	- Tear 2 – (0,33 – 0,66)
@@ -51,6 +55,9 @@ Once we have 3 tiers we can see number of customers we have in each of them so w
 - purchase frequency across customers tear = sum of number of orders/ distinct number of order id
 - and the last we need to include average LTV of the customers  
 
+![image](https://user-images.githubusercontent.com/85560182/161405257-6cbc2652-cfc5-469f-a24b-4332eb5e48f4.png)
+
+
 Insights:
 we have Consumers engagements.
 Here we have consumer driven metrics driven by consumer tiers. As we can see that the highest paying consumers make up for smallest consumer’s clusters. So Tier 1 is is the most valuable consumer cluster and it is where the companies should invest to keep consumers on their website and could be where the marketing focuses its campaign on the new users with the same profile
@@ -59,10 +66,10 @@ Here we have consumer driven metrics driven by consumer tiers. As we can see tha
 ## 3. To analyse the purchase behaviour of the clients we can create 
 -	The frequency curve will display the number of orders made by consumers on our website ( I’ll show the number of orders by count as a bar chart) a dual y-axis will display the cumulative frequency of orders in percentages as a line chart
 
-image
+![image](https://user-images.githubusercontent.com/85560182/161405273-44f83964-1076-4153-8c2a-61da93ccfcdb.png)
 -	Repurchase curve – average time of repurchases based on the consumer’s information so the x-axis for both charts will show the average months between repurchases and on the y-axis for the bar chart will display the number of customers who have repurchased in a specified period. 
 
-image 
+![image](https://user-images.githubusercontent.com/85560182/161405282-bf9b4e58-7e76-4403-8e44-5657517e443c.png)
 
 Insights:
 in the last dashboard we have the consumer’s lifecycle. Looking at the frequency curve we can see that the majority of our consumers made a single purchase on the website. So the companies should concentrate their effort to keep customers on the website. So the goal is to convince customers to stay active on the website and make repeat purchases, this can be trace back to any part of the customer’s journey from the first click on the website to the variety of irrelevance they show while they are there. Customers journey should be flawless and engaging.
