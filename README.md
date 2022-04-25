@@ -9,7 +9,7 @@ The report (story) consist of three sheets:
 - Showing how long it usually takes for the consumer to make a repeat purchase. 
 Both charts are integrated to understand customer behaviour and more importantly, are key metrics that need to be optimized to improve margins.
 
-Tableau [dashboard](https://public.tableau.com/app/profile/iwona8604/viz/Dashboard2_16367179471510/Dashboard1?publish=yes )
+Tableau [story](https://public.tableau.com/app/profile/iwona8604/viz/FashionAnalyticsStory_16416831242580/Story1)
 
 ### 1.	Building Company’s KPI 
 
