@@ -1,6 +1,6 @@
 ## Fashion Analytics Report
 
-Building a fashion analytics report for a fast fashion retailer. On its basis the company will able to improve its performance (the revenue growth). 
+Building a fashion analytics report for a fast fashion retailer. On its basis the company will able to improve its performance - the revenue growth. 
 The report (story) consist of three sheets:
 1.	Contain the company metrics compered on the year to year basics.
 2.	Provide the customer - based metrics that will be examined across three different customer segments 
